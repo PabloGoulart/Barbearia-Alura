@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-
+https://pablogoulart.github.io/Barbearia-Alura/
 
 <p>A Barbearia Alura, foi uma recriação implementando mobile first e responsividade para o site, que foi criando durante o curso.</p>
 
