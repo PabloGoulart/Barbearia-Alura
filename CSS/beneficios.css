@@ -1,0 +1,39 @@
+.beneficios__list {
+    display: inline-block;
+}
+
+.beneficios__list-item::before {
+    content: '★';
+}
+
+.beneficios__imagem {
+    width: 100%;
+    box-shadow: 8px 12px 10px black;
+}
+
+.beneficios__imagem:hover {
+    opacity: 0.4;
+    transition: 400ms;
+}
+
+.beneficios__video {
+    width: 100%;
+    margin: 70px 0;
+}
+
+@media screen and (min-width: 768px) {
+    .beneficios {
+        width: 640px;
+        margin: 0 auto;
+    }
+
+    .beneficios__imagem {
+        width: 380px;
+        float: right;
+    }
+
+    .beneficios__video {
+        width: 90%;
+        margin: 40px 0 70px;
+    }
+}

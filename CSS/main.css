@@ -1,0 +1,13 @@
+main {
+    background-color: white;
+}
+
+.main__banner {
+    width: 100%;
+}
+
+.title {
+    text-align: center;
+    font-size: 2em;
+    margin: 1em 0;
+}

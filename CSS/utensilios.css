@@ -1,0 +1,16 @@
+.utensilios__imagem {
+    width: 120px;
+    float: left;
+    margin: 0px 10px 30px 0;
+}
+
+.utensilios p {
+    margin: 0 0 1em 0;
+}
+
+@media screen and (min-width: 1024px) {
+    .utensilios {
+        width: 940px;
+        margin: 0 auto;
+    }
+}
